@@ -1,1 +1,5 @@
-# Zeta-PayKar-
+# Zeta-PayKar- 
+Payकर  is a Web App made for the purpose to ease transactions and create more positive environment of the user. 
+It is a web app which has several features that help the users/customer to keep track of his/her transaction and also if they want they can monitor or limit transaction. In simple words the the user can either be admin or member as per the requirements. 
+The web app can serve to multiple users for multiple purpose. Like it can be used as a family budget calculator which will provide mechanism for a family to share the account amongst all members and set up transaction limits by the admin. Also it can be used by a firm to tranfer salary of the subordinate employees per month. 
+The features present in it not only makes the work of creater or admin easy but also the member of the group can make use of this web app efficiently. They can transfer the amount present in their account wherever they want. History of their all transactions will also be recorded which they can view any time they want.
